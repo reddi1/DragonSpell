@@ -1,0 +1,9 @@
+DragonSpell
+
+Use an enderpearl on a jukebox to spawn an enderdragon.
+
+- block damage by the dragon is disabled
+- portal creation by the dragon is disabled
+- only spawns the dragon in the End
+- limit max dragons to 1
+ 
